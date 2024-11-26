@@ -1,0 +1,16 @@
+.movie-list li {
+    font-size: 18px;
+    color: #333;
+}
+.movie-list li.favorite {
+    font-weight: bold;
+    color: #ff6347;
+}
+
+
+.city-list li:nth-child(odd) {
+    color: #2f4f4f;
+}
+.city-list li:nth-child(even) {
+    color: #8a2be2;
+}
